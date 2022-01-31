@@ -17,3 +17,4 @@ my course project for Programming Techniques on the 1st year 2nd semester
 ## Member
 - [@Jaopatk](https://github.com/Jaopatk)
 - [@kuro1730](https://github.com/kuro1730)
+- [@lamroN9029](https://github.com/lamroN9029)
